@@ -1,0 +1,9 @@
+# wap to find the absolute difference between set and unset bit on a num
+#wap to toggle kth bit in a num
+#wap to find that if kth bit is set or unset
+#wap to find the if a given number is negative or positive using bit manipulation
+#wap to check if a given number is a power of two using bit manipulation   
+#wap to fing the summation of given numbers
+#x+(X+1)^2+(x+2)^3+(x+3)^4...nterm
+#wap to check if a given pair is amicable pair
+#wap to find the sumation of only prime digit in a given number

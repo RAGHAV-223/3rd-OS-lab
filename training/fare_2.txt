@@ -1,0 +1,2 @@
+print("Enter the units:",end="")
+unit=int(input())
